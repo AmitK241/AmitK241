@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-MNNIT%20Allahabad-6B21A8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Final%20Year-2025--26-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Final%20Year-2026--27-4F46E5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/📍%20Prayagraj%2C%20Uttar%20Pradesh-India-7C3AED?style=for-the-badge" />
 </p>
 
