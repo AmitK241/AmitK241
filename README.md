@@ -359,9 +359,15 @@ open_to:
 
 ---
 
+## ◈ Dev Quote
+
 <p align="center">
-  <em>"Engineering is not just about writing code — it's about building systems that endure, scale, and matter."</em>
+  <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
 </p>
+
+---
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6B21A8&height=120&section=footer" />
