@@ -4,13 +4,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;MERN+%7C+LangChain+%7C+Gemini+API+%7C+Groq+API;Final+Year+B.Tech+CSE+%40+MNNIT+Allahabad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;MERN+%7C+LangChain+%7C+Gemini+API+%7C+Groq+API;Final+Year+B.Tech+CSE+%40+MNNIT+Allahabad" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-MNNIT%20Allahabad-6B21A8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Final%20Year-2026--27-4F46E5?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/📍%20Prayagraj%2C%20Uttar%20Pradesh-India-7C3AED?style=for-the-badge" />
 </p>
 
