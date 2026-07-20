@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Amit%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=52&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:4F46E5,100:7C3AED&height=220&section=header&text=Amit%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=52&descAlign=50&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Architecting+Production-Grade+AI+Systems+%F0%9F%A7%A0;MERN+%2B+FastAPI+%7C+LangChain+%7C+Groq+LPU+%7C+Multi-Agent+Pipelines;Final+Year+B.Tech+CSE+%40+MNNIT+Allahabad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=150&lines=Architecting+Production-Grade+AI+Systems+%F0%9F%A7%A0;MERN+Full-Stack+%7C+FastAPI+%2B+Python+for+AI%2FML;LangChain+%7C+Groq+LPU+%7C+Multi-Agent+Pipelines;Final+Year+B.Tech+CSE+%40+MNNIT+Allahabad" alt="Typing SVG" />
   </a>
 </p>
 
@@ -323,5 +323,5 @@ open_to:
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6B21A8&height=120&section=footer" />
 </p>
