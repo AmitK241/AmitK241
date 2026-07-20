@@ -257,8 +257,8 @@ I don't just prototype — I debug the things that break in production: rate lim
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitK241&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=C4B5FD&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitK241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" width="49%" />
+  <img src="https://github-readme-stats-theta-lilac-74ni6zt2an.vercel.app/api?username=AmitK241&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=C4B5FD&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats-theta-lilac-74ni6zt2an.vercel.app/api/top-langs/?username=AmitK241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" width="49%" />
 </p>
 
 <p align="center">
