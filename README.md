@@ -215,7 +215,7 @@ I don't just prototype — I debug the things that break in production: rate lim
 - ⚡ Streaming LLM responses with sub-2s latency via Groq inference, backed by a modular REST API and JWT-secured auth
 - 🎨 Pure black + neon accent glassmorphism UI, built for a recruiter-facing, production-ready feel
 
-**[📦 GitHub Repo](https://github.com/AmitK241/CareerCopilot-AI)**
+**[📦 GitHub Repo](https://github.com/AmitK241/CareerCopilot-AI)** &nbsp;·&nbsp; **[🚀 Live Demo](https://client-lac-iota-74.vercel.app/)**
 
 </td>
 </tr>
