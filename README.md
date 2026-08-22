@@ -275,12 +275,12 @@ I don't just prototype — I debug the things that break in production: rate lim
 
 | Recognition | Details |
 |:---|:---|
-| 🥇 **Best AI Project Award** | FutureAI Global Hackathon 2026 — for **AXIOM**, among 462 global participants, judged by engineers from Google, Amazon, Netflix, IBM & Deloitte ([Devpost](https://devpost.com/software/axiom-the-cognitive-stress-test-engine) · [Certificate] (https://drive.google.com/file/d/19wXN8K1nxotHAIFhZqWpI-sEXpzKxXNI/view?usp=sharing)) |
+| 🥇 **Best AI Project Award** | FutureAI Global Hackathon 2026 — for **AXIOM**, among 462 global participants, judged by engineers from Google, Amazon, Netflix, IBM & Deloitte ([Devpost](https://devpost.com/software/axiom-the-cognitive-stress-test-engine) · [Certificate](https://drive.google.com/file/d/19wXN8K1nxotHAIFhZqWpI-sEXpzKxXNI/view?usp=sharing)) |
 | 📜 **Coursera Verified** | Deep Learning & GenAI Exploration ([Certificate](https://www.coursera.org/account/accomplishments/verify/YHKOGIRMLV7R)) |
 | 🧩 **DevNetwork AI+ML Hackathon 2026** | Built and presented CareerCopilot-AI's real-time resume-intelligence module |
 | 🧬 **DataHub Agent Hackathon 2026** | Submitted Anamnesis — a five-agent persistent memory layer for AI data pipelines |
 | 🌙 **Moonshot Hackathon 2026** | Submitted AXIOM — FastAPI + LangChain + Groq LPU pipeline with live D3.js visualization |
-| 🧠 **550+ DSA Problems Solved** | Peak LeetCode rating: **1710** |
+| 🧠 **550+ DSA Problems Solved** | Peak LeetCode rating: **1734** |
 | 🌐 **Production Deployments** | AXIOM, Anamnesis, CareerCopilot-AI, Cinovix & QuickChat — all live on Vercel/Render + MongoDB Atlas |
 
 </div>
