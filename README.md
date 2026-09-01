@@ -195,7 +195,7 @@ I don't just prototype — I debug the things that break in production: rate lim
 - ⚡ Powered by **Groq LPU inference** running **openai/gpt-oss-120b** for near-instant, cited responses
 - 🎛️ Shipped a clean **Streamlit** interface for fast document upload and chat
 
-**[📦 GitHub Repo](https://github.com/AmitK241)**
+**[📦 GitHub Repo](https://github.com/AmitK241)** &nbsp;·&nbsp; **[🚀 Live Demo](https://iwixvgu3xkvcakgxtwcyyp.streamlit.app/)**
 
 </td>
 </tr>
