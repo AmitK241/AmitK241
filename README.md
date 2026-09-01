@@ -174,7 +174,7 @@ I don't just prototype — I debug the things that break in production: rate lim
 - 🐛 Debugged real production-grade issues: DataHub last-write-wins corruption, a silently injected mock-data fallback, and a Windows IPv6 localhost resolution bug
 - 🏗️ Submitted to the DataHub Agent Hackathon 2026
 
-**[📦 GitHub Repo](https://github.com/AmitK241)** &nbsp;·&nbsp; **[🚀 Live Demo (Demo Mode)](#)**
+**[📦 GitHub Repo](https://github.com/AmitK241)** &nbsp;·&nbsp; **[🚀 Live Demo (https://anamnesis-agent.onrender.com/)](#)**
 
 </td>
 </tr>
